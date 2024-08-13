@@ -1,4 +1,6 @@
 # openXcomLovecraft
+<span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="/assets/Myproject.png" alt="Trout48" /></span>
+
 Lovecraftian story line and expanded universe within X Com
 
 This is an expansion to the X-Com Files Mod for OpenXCom Extended and expands upon the Lovecraft Mythos and adds mystery and detective work to the gameplay. 
