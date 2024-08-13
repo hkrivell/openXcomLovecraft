@@ -1,5 +1,5 @@
 # openXcomLovecraft
-<span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="[https://github.com/hkrivell/openXcomLovecraft/blob/main/XComMisk.jpg?raw=true" alt="Trout48" /></span>
+<span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="https://github.com/hkrivell/openXcomLovecraft/blob/main/XComMisk.jpg"/></span>
 
 Lovecraftian story line and expanded universe within X Com
 
