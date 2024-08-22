@@ -1,0 +1,7 @@
+name: "Miskatonic Legacy"
+version: "0.1a"
+author: "Chip Kay"
+description: "H.P. Lovecraft for the X-Com Files."
+id: miskatonic-legacy
+reservedSpace: 10
+master: x-com-files

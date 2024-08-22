@@ -1,0 +1,8 @@
+research:
+  - name: STR_MISKATONIC_UNIVERSITY_POINT_OF_CONTACT
+  - cost: 5
+  - points: 5
+  - dependencies:
+    - STR_BASIC_OPERATIONS
+  - needItem: false
+  
