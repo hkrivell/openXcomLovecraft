@@ -20,6 +20,6 @@ and much more to come.
 1. Research in progress
 2. Roadmap established, will be updated as I go along
 3. Story/Research tree established in Google
-<span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="https://github.com/hkrivell/openXcomLovecraft/blob/main/XComMisk.jpg](https://github.com/hkrivell/openXcomLovecraft/blob/main/MiskLeg.png"/></span>
+<span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="https://github.com/hkrivell/openXcomLovecraft/blob/main/MiskLeg.png"/></span>
 4. 
 5. 
