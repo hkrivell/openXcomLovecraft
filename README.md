@@ -15,3 +15,9 @@ one to madness.
 4. New skills, Arcane Lore, Demon Lore, Eldrich lore. Use weapons, tomes, and artifacts dependent upon the aforementioned skills
 
 and much more to come.
+
+# NEWS
+1. Research in progress
+2. Roadmap established, will be updated as I go along
+3. Story/Research tree established in Google
+4. 
