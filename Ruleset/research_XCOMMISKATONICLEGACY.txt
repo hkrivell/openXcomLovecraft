@@ -5,4 +5,31 @@ research:
   - dependencies:
     - STR_BASIC_OPERATIONS
   - needItem: false
-  
+#---------------------
+# Department Contacts
+#---------------------
+  - name: STR_MISKATONIC_UNIVERSITY_SCIENCE_DEPARTMENT_COLLABORATION
+  - cost: 15
+  - points: 5
+  - dependencies: STR_MISKATONIC_UNIVERSITY_POINT_OF_CONTACT
+  - needItem: false
+
+  - name: STR_MISKATONIC_UNIVERSITY_LIBERAL_ARTS_COLLABORATION
+  - cost: 15
+  - points: 5
+  - dependencies: STR_MISKATONIC_UNIVERSITY_POINT_OF_CONTACT
+  - needItem: false
+
+  - name: STR_MISKATONIC_UNIVERSITY_SCIENCE_DEPARTMENT_COLLABORATION
+  - cost: 15
+  - points: 5
+  - dependencies: STR_MISKATONIC_UNIVERSITY_POINT_OF_CONTACT
+  - needItem: false
+
+  - name: STR_MISKATONIC_UNIVERSITY_LIBERAL_ARTS_COLLABORATION
+  - cost: 15
+  - points: 5
+  - dependencies: STR_MISKATONIC_UNIVERSITY_POINT_OF_CONTACT
+  - needItem: false
+    
+    
