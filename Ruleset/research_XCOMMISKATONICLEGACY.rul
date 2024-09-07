@@ -31,5 +31,11 @@ research:
   - points: 5
   - dependencies: STR_MISKATONIC_UNIVERSITY_POINT_OF_CONTACT
   - needItem: false
+
+  - name: STR_MISKATONIC_UNIVERSITY_BUSINESSLAW_COLLABORATION
+  - cost: 15
+  - points: 5
+  - dependencies: STR_MISKATONIC_UNIVERSITY_POINT_OF_CONTACT
+  - needItem: false
     
     
