@@ -21,5 +21,5 @@ and much more to come.
 2. Roadmap established, will be updated as I go along
 3. Story/Research tree established in Google
 <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="https://github.com/hkrivell/openXcomLovecraft/blob/main/MiskLeg.png"/></span>
-4. 
+4. UFOpedia text found. Text written under Languages/en-US.yml
 5. 
