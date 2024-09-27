@@ -11,6 +11,19 @@ ufopaedia:
 #      - STR_EXALT
 #    listOrder: 180290
   - id: STR_MISKATONIC_UNIVERSITY
+      type_id: 7
+      section: STR_ALIEN_RESEARCH_UC
+      image_id:
+      text: STR_MISKATONIC_UNIVERSITY_UFOPEDIA
+      text_width: 310
+      align_bottom: false
+      requires:
+        - STR_MISKATONIC_UNIVERSITY_POINT_OF_CONTACT
+      listOrder:180351
+#---------------------
+# Department Contacts
+#---------------------
+  - id: STR_MISKATONIC_UNIVERSITY_SCIENCE_DEPARTMENT_COLLABORATION_UFOPAEDIA
     type_id: 7
     section: STR_ALIEN_RESEARCH_UC
     image_id:
@@ -18,5 +31,5 @@ ufopaedia:
     text_width: 310
     align_bottom: false
     requires:
-      - STR_MISKATONIC_UNIVERSITY_POINT_OF_CONTACT
+      - STR_MISKATONIC_UNIVERSITY_SCIENCE_DEPARTMENT_COLLABORATION
     listOrder
