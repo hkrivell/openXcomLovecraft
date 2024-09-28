@@ -19,17 +19,54 @@ ufopaedia:
       align_bottom: false
       requires:
         - STR_MISKATONIC_UNIVERSITY_POINT_OF_CONTACT
-      listOrder:180351
+      listOrder: 180351
 #---------------------
 # Department Contacts
 #---------------------
-  - id: STR_MISKATONIC_UNIVERSITY_SCIENCE_DEPARTMENT_COLLABORATION_UFOPAEDIA
+  - id: STR_MISKATONIC_UNIVERSITY_SCIENCE_DEPARTMENT_COLLABORATION
     type_id: 7
     section: STR_ALIEN_RESEARCH_UC
     image_id:
-    text: STR_MISKATONIC_UNIVERSITY_UFOPEDIA
+    text: STR_MISKATONIC_SCIENCE_DEPARTMENT_COLLABORATION_UFOPEDIA
     text_width: 310
     align_bottom: false
     requires:
       - STR_MISKATONIC_UNIVERSITY_SCIENCE_DEPARTMENT_COLLABORATION
-    listOrder
+    listOrder: 180351
+  - id: STR_MISKATONIC_UNIVERSITY_LIBERAL_ARTS_DEPARTMENT_COLLABORATION
+    type_id: 7
+    section: STR_ALIEN_RESEARCH_UC
+    image_id:
+    text: STR_MISKATONIC_UNIVERSITY_LIBERAL_ARTS_DEPARTMENT_COLLABORATION_UFOPEDIA
+    text_width: 310
+    align_bottom: false
+    requires:
+      - STR_MISKATONIC_UNIVERSITY_LIBERAL_ARTS_DEPARTMENT_COLLABORATION
+    listOrder: 180352
+  - id: STR_MISKATONIC_UNIVERSITY_LIBERAL_ARTS_DEPARTMENT_COLLABORATION
+    type_id: 7
+    section: STR_ALIEN_RESEARCH_UC
+    image_id:
+    text: STR_MISKATONIC_UNIVERSITY_LIBERAL_ARTS_DEPARTMENT_COLLABORATION_UFOPEDIA
+    text_width: 310
+    align_bottom: false
+    requires:
+      - STR_MISKATONIC_UNIVERSITY_LIBERAL_ARTS_DEPARTMENT_COLLABORATION
+    listOrder: 180352
+#---------------------
+# Dossiers
+#---------------------
+#- id: STR_DOSSIER_DR_HADRIEX
+#    type_id: 7
+#    image_id: DOSSIER_DR_HADRIEX.SPK
+#    text_width: 172
+#    section: STR_DOSSIERS_UC
+#    text: STR_DOSSIER_DR_HADRIEX_UFOPEDIA
+#    requires:
+- id: STR_DOSSIER_CHIPK
+    type_id: 7
+    image_id: DOSSIER_CHIPK.SPK
+    text_width: 172
+    section: STR_DOSSIERS_UC
+    text: STR_DOSSIER_CHIPK_UFOPEDIA
+    requires: STR_MISKATONIC_UNIVERSITY_SCIENCE_DEPARTMENT_COLLABORATION
