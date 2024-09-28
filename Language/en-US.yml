@@ -4,4 +4,11 @@ en-US:
   STR_DOSSIER_CHIPK_UFOPEDIA: ">ROLE: Intel Officer{NEWLINE}>AFFILIATION: For Hire{NEWLINE}>DETAILS: Former intel officer and simulations engineer, Chip's skills variety of skills have been used by the US Government to explore the reaches of the unkown. If he is available and if you can find him, you can hire ChipK.{NEWLINE}{NEWLINE} COMBAT SKILLS: {NEWLINE} -Martial Arts{NEWLINE} -PISTOLS: Colt. 45{NEWLINE}.{NEWLINE}>STATUS: Employment Status Unknown."
   STR_MISK_U_POC_CONTACT: "Miskatonic University Point of Contact"
   STR_MISK_U_POC_CONTACT_UFOPEDIA: "Good evening, Sir. I am the University's point of contact. Miskatonic University sees great potential in the collaboration with X-Com and it is my responsibility to maintain our collaborative relationship as we share resources and information. I will provide information about resource acuisition and events regarding university matters. The next step to further our relationship is to make contact with the various department heads to gain access to specialized research and equipment."
-  
+  STR_MISKATONIC_SCIENCE_DEPARTMENT_COLLABORATION: "Miskatonic U. Science Department Collaboration"
+  STR_MISKATONIC_SCIENCE_DEPARTMENT_COLLABORATION_UFOPEDIA: ""
+  STR_MISKATONIC_UNIVERSITY_LIBERAL_ARTS_DEPARTMENT_COLLABORATION: ""
+  STR_MISKATONIC_UNIVERSITY_LIBERAL_ARTS_DEPARTMENT_COLLABORATION_UFOPEDIA: ""
+  STR_MISKATONIC_UNIVERSITY_MEDICAL_DEPARTMENT_COLLABORATION_UFOPEDIA: ""
+  STR_MISKATONIC_UNIVERSITY_MEDICAL_DEPARTMENT_COLLABORATION: ""
+  STR_MISKATONIC_UNIVERSITY_BUSINESS_DEPARTMENT_COLLABORATION_UFOPEDIA: ""
+  STR_MISKATONIC_UNIVERSITY_BUSINESS_DEPARTMENT_COLLABORATION: ""
