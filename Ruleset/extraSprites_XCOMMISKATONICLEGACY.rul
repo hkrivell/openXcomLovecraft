@@ -11,3 +11,9 @@ extraSprites:
     height: 200
     files:
       0: Resources/ufopediaMiskU.png
+  - type: DOSSIER_CHIPK.SPK
+    singleImage: true
+    width: 320
+    height: 200
+    files:
+      0: Resources/Dossiers/Chip.png
